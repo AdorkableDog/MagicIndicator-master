@@ -1,0 +1,7 @@
+#Thu Nov 03 22:47:39 CST 2016
+base.0=F\:\\Downloads\\MagicIndicator-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1335607c067b346f6a8a0128acfbfe306cadb4d6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Downloads\\MagicIndicator-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_82a409bcb3fa5712de5fcd0d305b3839aecb6cbf\\classes.dex
+base.1=F\:\\Downloads\\MagicIndicator-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_82a409bcb3fa5712de5fcd0d305b3839aecb6cbf
+file.0=F\:\\Downloads\\MagicIndicator-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1335607c067b346f6a8a0128acfbfe306cadb4d6\\classes.dex
